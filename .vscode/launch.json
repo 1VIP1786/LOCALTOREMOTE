@@ -5,17 +5,13 @@
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
       "request": "launch",
-      "args": [
-        ""
-      ],
+      "args": [],
       "stopAtEntry": false,
-      "cwd": "/home/vipul/Desktop/Cpp Programming",
-      "environment": [],
-      "program": "/home/vipul/Desktop/Cpp Programming/build/Debug/outDebug",
-      "internalConsoleOptions": "openOnSessionStart",
+      "externalConsole": false,
+      "cwd": "/home/vipul/Desktop/CPP DSA/ARRAYS",
+      "program": "/home/vipul/Desktop/CPP DSA/ARRAYS/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "/usr/bin/gdb",
-      "externalConsole": false,
       "setupCommands": [
         {
           "description": "Enable pretty-printing for gdb",
